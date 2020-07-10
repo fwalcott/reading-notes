@@ -8,11 +8,11 @@ Here is my beginner page that I will continue to work on
 
 * Resume
 * Applications
-> Tracker <
-> City Planner <
-> Choose Your Own Ending <
+  > Tracker 
+  > City Planner 
+  > Choose Your Own Ending 
 * Websites
-> Mock News Site <
-> Mock Fashion Blog <
+  > Mock News Site 
+  > Mock Fashion Blog 
 * Artist BootStrap page
 * About me
