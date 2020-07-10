@@ -6,9 +6,11 @@ Here is my beginner page that I will continue to work on
 
 # Table of Cotents #
 
-* Resume
-* Applications
+* [Resume](./resume/)
+* [Applications](./apps/)
   > City Planner 
-* Websites
+* [Websites](./websites/)
   > Artist BootStrap page
-* About me
+* [About me](./aboutme/)
+
+
