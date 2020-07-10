@@ -6,13 +6,13 @@ Here is my beginner page that I will continue to work on
 
 # Table of Contents #
 
-1 Resume 
-2 Applications 
--Tracker 
--City Planner 
--Choose Your Own Ending 
-3 Websites
--Mock News Site
--Mock Fashion Blog 
--Artist BootStrap page 
-4 About me
+1 Resume# 
+2 Applications#
+-Tracker# 
+-City Planner#
+-Choose Your Own Ending#
+3 Websites#
+-Mock News Site#
+-Mock Fashion Blog# 
+-Artist BootStrap page#
+4 About me#
