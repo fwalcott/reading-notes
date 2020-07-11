@@ -13,6 +13,5 @@
   > Artist BootStrap page
 * [About me](./aboutme/) 
 
-
-
-
+>Coffee is the elixer of life. Without it it a lot harder to deal with everything!
+>-Felicia Walcott 
