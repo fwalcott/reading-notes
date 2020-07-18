@@ -1,0 +1,39 @@
+# Notes for Class one
+
+
+## Site Map
+A site map is critical to a multi-page website.
+It helps you visualize the entire make up of the site.
+Shows you what links go where and helps you set up your site in a logical yet intuitive way.
+
+*[Here are examples of a site map](http://www.southernbelize.com/map.html)*
+
+
+
+## Wire Frame
+A wire frame helps you set up how you want to set up the layout of your website's content.
+It is a visual to help you plan out where you want things to go.
+It is like a sketch you can makeusing a pen and paper, a drawing app such as MS Paint or Photoshop, or online wireframe tools such as [Go Mocking Bird](https://gomockingbird.com/home) or {Lovely Charts}(https://lovelycharts.com/).
+
+
+## ``hgroup`` ##
+hgroup is a grouping together of one or more h1 to h6 (headings h1 the largest and h6 the smallest) so that they are treated as one heading.
+
+*Example of an hgroup*
+
+
+## Food Blogs
+### These Are The Best Food Blogger For The Beginner Home Cook
+
+This ``hgroup`` contains both a title which is an h2 element and a subtitle with and h3 element.
+
+
+
+## Metadata
+Metadata is **crucial.**
+It lives inside the head element and contains information about the web page, and ***It is not visible to users.***
+It tells search engines information about your page.
+The most important parts are the description (tells search engines what the page is about and the keyword *(contains a list separated by commas that a user might search for).*
+Keywords help people find your site.  
+
+
