@@ -7,7 +7,7 @@
 
 | Code 201 Reading | Notes    |
 | :--------------- | ----------: |
-|  Day 1           | [Class one notes}(https://github.com/fwalcott/reading-notes/wiki/Reading-1)         | 
+|  Day 1           | [Class one notes](https://github.com/fwalcott/reading-notes/wiki/Reading-1)         | 
 | Day 2 |     | 
 | Day 3 |      |
 | Day 4 |      | 
